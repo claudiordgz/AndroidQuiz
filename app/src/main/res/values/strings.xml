@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="question_array">
+        <item>An activity is responsible for managing user interaction with a screen of information?</item>
+        <item>true</item>
+        <item>Ctrl+Shift+O organizes imports in OSX?</item>
+        <item>false</item>
+        <item>A toast in android is an extra dialog that appears in another activity?</item>
+        <item>false</item>
+        <item>A model object holds the application data and application logic?</item>
+        <item>false</item>
+        <item>A model contains business logic?</item>
+        <item>true</item>
+        <item>View objects know how to draw themselves on the screen and how to respond to user input, like touches?</item>
+        <item>true</item>
+        <item>Controller contains business logic?</item>
+        <item>false</item>
+        <item>Controller contains application logic?</item>
+        <item>true</item>
+        <item>Does MVC makes class easier to reuse?</item>
+        <item>true</item>
+        <item>You can embed images in a Button?</item>
+        <item>true</item>
+        <item>You can use android:text on ImageButton?</item>
+        <item>false</item>
+        <item>You can log information using android.Log?</item>
+        <item>false</item>
+        <item>You can log information using android.util.Log?</item>
+        <item>true</item>
+        <item>An activity onDestroy method is called when using the back button and when rotating the screen?</item>
+        <item>true</item>
+`</string-array>
+    <string name="app_name">AndroidQuiz</string>
+    <string name="action_settings">Settings</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="previous_button">Back</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+    <string name="title_activity_cheat">CheatActivity</string>
+</resources>
